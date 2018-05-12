@@ -1,4 +1,8 @@
 _repo: History-of-the-Thirty-sixth-Regiment-Massachusetts-Volunteers-1862-1865_50422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50422-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ranlett, S. Alonzo
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '45895'
     url: http://www.gutenberg.org/2009/agents/45895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50422#History-of-the-Thirty-sixth-Regiment-Massachusetts-Volunteers-1862-1865
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:

@@ -31,5 +31,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865
 url: http://www.gutenberg.org/ebooks/50422
